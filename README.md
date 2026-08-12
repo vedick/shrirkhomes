@@ -1,2 +1,0 @@
-# shrirkhomes
-real estates website
